@@ -1,0 +1,14 @@
+youtube-downloader/
+│
+├── src/
+│   ├── __init__.py
+│   ├── downloader.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_downloader.py
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── .gitignore
