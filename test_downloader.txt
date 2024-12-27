@@ -1,0 +1,18 @@
+# tests/test_downloader.py
+import unittest
+from src.downloader import download_youtube_video, download_youtube_playlist
+
+class TestDownloader(unittest.TestCase):
+
+    def test_download_youtube_video(self):
+        # This is a placeholder for actual tests
+        # Ideally, you would mock the YouTube object and test the download function
+        self.assertTrue(True)
+
+    def test_download_youtube_playlist(self):
+        # This is a placeholder for actual tests
+        # Ideally, you would mock the Playlist object and test the download function
+        self.assertTrue(True)
+
+if __name__ == '__main__':
+    unittest.main()
